@@ -1,0 +1,2 @@
+# Student Engagement Classification
+This project aims to analyse data on student physiological and behavioral metrics alongside environmental factors to see if their engagement level in class can be determined.
